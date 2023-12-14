@@ -9,8 +9,7 @@ body {
 .center-div {
     /* Gaya-gaya untuk div yang akan diposisikan di tengah */
     width: 200px;
-    height: 200px;
-    background-color: lightblue;
+    text-align: center;
 }
 
 .logo {
