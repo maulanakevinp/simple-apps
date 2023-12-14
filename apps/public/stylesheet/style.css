@@ -1,6 +1,16 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.center-div {
+    /* Gaya-gaya untuk div yang akan diposisikan di tengah */
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
 }
 
 .logo {
